@@ -1,3 +1,6 @@
+My code helps pre-process the Hindi word2vec data and store it into an embeddings dictionary. Worked on this as part of a project, was quite a bit, so I hope this is helpful for others!
+
+
 # Pre-trained word vectors of 30+ languages
 
 This project has two purposes. First of all, I'd like to share some of my experience in nlp tasks such as segmentation or word vectors. The other, which is more important, is that probably some people are searching for pre-trained word vector models for non-English languages. Alas! English has gained much more attention than any other languages has done. Check [this](https://github.com/3Top/word2vec-api) to see how easily you can get a variety of pre-trained English word vectors without efforts. I think it's time to turn our eyes to a multi language version of this.
