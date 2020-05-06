@@ -1,7 +1,7 @@
-My code `hin-wordvectors-preprocessing.ipynb` pre-processes the Hindi word2vec data and stores it into an embeddings dictionary. Worked on this as part of a project, was quite a bit, so I hope this is helpful for others!
+My code `hin-wordvectors-preprocessing.ipynb` pre-processes the Hindi word2vec data and stores it into an embeddings dictionary. Worked on this as part of a project, was not a piece of cake, so I hope this is helpful for others!
 
 Requirements: 
-1. Make sure the 'w' version of the Hindi corpus is on your drive/My drive.
+1. Make sure the 'w' version (linked below) of the Hindi corpus is on your drive/My drive on colab. 
 
 -------------Original README.md starts here---------------------------
 
